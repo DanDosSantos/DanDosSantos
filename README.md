@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Daniel dos Santos Silva</h1>
 <h3 align="center">A passionate future Full Stack Developer from Brazil</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding gif">
+</p>
+
+---
+
+## 🧠 Sobre mim
+
 - 🔭 I’m currently working on **a personal security app with AI**
 
 - 🌱 I’m currently learning **Django, Flask, React and JavaScript**
@@ -31,3 +39,11 @@
 ### 📊 Estatísticas do GitHub:
 
 ![DanDosSantos's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanDosSantos&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanDosSantos&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/dandossantos/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danpaarker@gmail.com)
