@@ -39,4 +39,4 @@
 
 ### 📊 Estatísticas do GitHub:
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=**DanDosSantos**&show_icons=true&theme=radical)
+![DanDosSantos's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanDosSantos&show_icons=true&theme=radical)
